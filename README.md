@@ -11,7 +11,7 @@ This repository covers core Python libraries used in Machine Learning:
 
 ## Workflow Overview
 
-![ML Workflow](images/Machine Learning Workflow.png)
+![ML Workflow](images/Machine_Learning_Workflow.png)
 
 ---
 
